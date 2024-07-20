@@ -1,0 +1,7 @@
+{
+  "name": "smartbasket_pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
